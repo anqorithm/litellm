@@ -1,0 +1,4 @@
+BEFORE: row menu has no Adjust budget action
+AFTER: 42.765 saved, survived reload, reset date and spend unchanged
+AFTER: unlimited and monthly reset saved and survived reload
+AFTER: read-only admin cannot access Adjust budget
